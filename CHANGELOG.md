@@ -2,6 +2,11 @@
 
 ## Unreleased
 
+### Visual
+
+- Theodor
+  - Trail pfx changed
+
 ### Balance
 
 - Shredder
