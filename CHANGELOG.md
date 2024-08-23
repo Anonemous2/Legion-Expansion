@@ -6,6 +6,7 @@
 
 - New models
   - Fabrication Walker
+  - Armour Fabricator
 
 - Updated SI icon
   - Corsair
@@ -87,6 +88,12 @@
     - Reduced Metal cost from 2000 to 1900
     - Health increased to 400 from 150
     - Reduced Energy rate from 2200 to 1900
+
+  - Armour Fabricator
+    - Speed increased from 11 to 18
+    - Health reduced from 185 to 75
+    - Reduced Metal rate from 13 to 10
+    - Reduced Energy rate from 850 to 750
 
   - Purger
     - Given missile target tracking
