@@ -9,6 +9,7 @@
   - Armour Fabricator
   - Guardian
   - Corsair
+  - Panzer
 
 - Updated SI icon
   - Corsair
