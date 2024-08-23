@@ -95,6 +95,11 @@
     - Reduced Metal rate from 13 to 10
     - Reduced Energy rate from 850 to 750
 
+  - Advanced Fabrication Armour
+    - Speed increased from 10 to 18
+    - Health reduced from 500 to 200
+    - Reduced Metal rate from 70 to 60
+
   - Purger
     - Given missile target tracking
     - Auto attacks targets when moving into range. When given a target, will not auto attack other units.
