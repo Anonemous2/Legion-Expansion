@@ -8,6 +8,7 @@
   - Fabrication Walker
   - Armour Fabricator
   - Guardian
+  - Corsair
 
 - Updated SI icon
   - Corsair
@@ -107,6 +108,18 @@
     - Reduced Energy rate from 600 to 400
     - Can Build Shredders
     - Can build Liberators
+
+  - Corsair
+    - Health reduced from 175 to 100
+    - Damage reduced from 60 to 40
+    - Increased range from 160 to 240
+    - Given Grenadier target priorities:
+      "Structure & SurfaceDefense"
+      "Structure & Defense"
+      "Commander"
+      "Mobile - Air"
+      "Structure - Wall"
+      "Wall"
 
   - Purger
     - Given missile target tracking

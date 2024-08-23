@@ -5,7 +5,7 @@
   "armor_type": "AT_Hover",
   "attachable": {
     "offsets": {
-      "head": [0, 0, 2.7],
+      "head": [0, 0, 4.5],
       "root": [0, 0, 0]
     }
   },
@@ -88,7 +88,7 @@
     }
   ],
   "influence_radius": 400,
-  "max_health": 175,
+  "max_health": 100,
   "mesh_bounds": [6.468, 8, 5.711],
   "model": {
     "animations": {
