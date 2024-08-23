@@ -7,6 +7,7 @@
 - New models
   - Fabrication Walker
   - Armour Fabricator
+  - Guardian
 
 - Updated SI icon
   - Corsair
@@ -99,6 +100,13 @@
     - Speed increased from 10 to 18
     - Health reduced from 500 to 200
     - Reduced Metal rate from 70 to 60
+
+  - Guardian
+    - Reduced Metal cost from 350 to 300
+    - Reduced Metal rate from 45 to 30
+    - Reduced Energy rate from 600 to 400
+    - Can Build Shredders
+    - Can build Liberators
 
   - Purger
     - Given missile target tracking
